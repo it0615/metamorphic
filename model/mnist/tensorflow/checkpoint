@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Sato\\OneDrive - Hitachi Group\\code\\deepsaucer_publish\\model\\mnist\\tensorflow\\model_mnist_tensorflow.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Sato\\OneDrive - Hitachi Group\\code\\deepsaucer_publish\\model\\mnist\\tensorflow\\model_mnist_tensorflow.ckpt"
